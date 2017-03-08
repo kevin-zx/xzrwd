@@ -1,16 +1,15 @@
 <?php get_header(); ?>
 
 <?php
-	if (have_posts()) {
+	// if (have_posts()) {
 		while (have_posts()) {
 			?>
 			<a href=<?php the_permalink(); ?>><?php the_title(); ?></a>
 			<?php
-			// the_post();
 		}
-	}else{
-		echo "have nothing post";
-	}
+	// }else{
+	// 	echo "have nothing post";
+	// }
 ?>
 	<body>
 		<div  style="height:5px;background:#428bca"></div>
