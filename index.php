@@ -6,7 +6,7 @@
 
 			<div class="container">
 				<div class="col-lg-4 col-sm-4">
-					<img src="img/logo.png" style="    width: 100%;height: 127px;">
+					<img src="<?php bloginfo('template_url'); ?>/img/logo.png" style="    width: 100%;height: 127px;">
 				</div>
 				<div class="col-lg-4 col-sm-4"></div>
 				<div class="col-lg-4 col-sm-4">
@@ -37,21 +37,21 @@
 				</ol>
 				<div class="carousel-inner" role="listbox">
 					<div class="item">
-						<img data-src="holder.js/900x500/auto/#777:#777" alt="900x500" src="img/1.jpg" data-holder-rendered="true">
+						<img data-src="holder.js/900x500/auto/#777:#777" alt="900x500" src="<?php bloginfo('template_url'); ?>/img/1.jpg" data-holder-rendered="true">
 						<div class="carousel-caption">
 							<h3>First slide label</h3>
 							<p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
 						</div>
 					</div>
 					<div class="item">
-						<img data-src="holder.js/900x500/auto/#666:#666" alt="900x500" src="img/2.jpg" data-holder-rendered="true">
+						<img data-src="holder.js/900x500/auto/#666:#666" alt="900x500" src="<?php bloginfo('template_url'); ?>/img/2.jpg" data-holder-rendered="true">
 						<div class="carousel-caption">
 							<h3>Second slide label</h3>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 						</div>
 					</div>
 					<div class="item active">
-						<img data-src="holder.js/900x500/auto/#555:#555" alt="900x500" src="img/3.jpg" data-holder-rendered="true">
+						<img data-src="holder.js/900x500/auto/#555:#555" alt="900x500" src="<?php bloginfo('template_url'); ?>/img/3.jpg" data-holder-rendered="true">
 						<div class="carousel-caption">
 							<h3>Third slide label</h3>
 							<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
@@ -111,12 +111,12 @@
 		<div class="row news" style="padding-top:20px;">
 			<div class="container">
 				<div class="col-sm-3">
-					<p><img src="img/link1.jpg" alt=""></p>
-					<p><img src="img/link2.jpg" alt=""></p>
+					<p><img src="<?php bloginfo('template_url'); ?>/img/link1.jpg" alt=""></p>
+					<p><img src="<?php bloginfo('template_url'); ?>/img/link2.jpg" alt=""></p>
 				</div>
 				<div class="col-sm-3">
 					<a href="#" class="thumbnail">
-						<img data-src="holder.js/100%x180" alt="100%x180" src="img/aboout.jpg" data-holder-rendered="true" style="height: 265px; width: 100%; display: block;">
+						<img data-src="holder.js/100%x180" alt="100%x180" src="<?php bloginfo('template_url'); ?>/img/aboout.jpg" data-holder-rendered="true" style="height: 265px; width: 100%; display: block;">
 					</a>
 				</div>
 				<div class="col-sm-6">
