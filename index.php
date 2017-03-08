@@ -5,6 +5,8 @@
 		while (have_posts()) {
 			the_post();
 		}
+	}else{
+		echo "have nothing post";
 	}
 ?>
 	<body>
