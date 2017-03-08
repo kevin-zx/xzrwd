@@ -3,8 +3,8 @@
 <head>
 	<meta charset="utf-8">
 	<title>测试</title>
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="css/index.css">
+	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/index.css">
 	<link rel="stylesheet" href="http://v3.bootcss.com/assets/css/docs.min.css">
 	<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 	<script src="js/jquery-3.0.0.min.js"></script>
