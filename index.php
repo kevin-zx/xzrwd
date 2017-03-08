@@ -1,5 +1,12 @@
 <?php get_header(); ?>
 
+<?php
+	if (have_posts()) {
+		while (have_posts()) {
+			the_post();
+		}
+	}
+?>
 	<body>
 		<div  style="height:5px;background:#428bca"></div>
 		<div class="container">
