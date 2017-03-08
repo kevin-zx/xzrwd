@@ -3,6 +3,7 @@
 <?php
 	if (have_posts()) {
 		while (have_posts()) {
+			the_title();
 			the_post();
 		}
 	}else{
