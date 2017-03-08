@@ -21,4 +21,5 @@
     } else {
         wp_title('',true);
     } ?></title>
+    <?php wp_head(); ?>
 </head>
