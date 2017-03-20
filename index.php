@@ -13,6 +13,7 @@
 	}else{
 		echo "have nothing post";
 	}
+	get_sidebar();
 ?>
 	<body>
 		<div  style="height:5px;background:#428bca"></div>
