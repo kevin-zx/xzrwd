@@ -1,4 +1,4 @@
-<?php get_header(); ?>
+﻿hp get_header(); ?>
 
 	<body>
 		<div  style="height:5px;background:#428bca"></div>
