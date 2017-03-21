@@ -20,11 +20,11 @@
 					<?php
 
 					for ($i=2; $i <10 ; $i++) { 
-						echo get_the_category_by_ID($i)
+						echo get_the_category_by_ID($i);
 						$category_link = get_category_link( $value->cat_ID );
 						// echo "<br>";
 						?>
-						<?php echo "<li clas='col-lg-1'><a href='$category_link'>$get_the_category_by_ID($i)</a></li>" ?>	
+						<?php echo "<li clas='col-lg-1'><a href='$category_link'>$get_the_category_by_ID($i)</a></li>"; ?>	
 						<?php
 					}
 						
