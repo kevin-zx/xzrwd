@@ -18,8 +18,10 @@
 	$cates = get_categories();
 	foreach ($cates as $key => $value) {
 		// var_dump($key);
-		var_dump($value);
+		// var_dump($value);
+		echo $value["name"];
 		echo "<br>";
+
 	}
 ?>
 	<body>
