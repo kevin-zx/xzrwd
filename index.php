@@ -15,7 +15,11 @@
 		echo "have nothing post";
 	}
 	get_sidebar();
-	var_dump(get_categories());
+	$cates = get_categories();
+	foreach ($cates as $key => $value) {
+		// var_dump($key);
+		var_dump($value);
+	}
 ?>
 	<body>
 		
