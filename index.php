@@ -19,6 +19,7 @@
 	foreach ($cates as $key => $value) {
 		// var_dump($key);
 		var_dump($value);
+		echo "<br>";
 	}
 ?>
 	<body>
