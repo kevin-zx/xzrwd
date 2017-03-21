@@ -18,17 +18,12 @@
 				<ul class="nav menu">
 					<li clas="col-lg-1"><a href="">首页</a></li>
 					<?php
-						$cates = get_categories();
-						foreach ($cates as $key => $value) {
-							if (strstr($value->name,"Uncategorized")) {
-								continue;
-							}
-							$category_link = get_category_link( $value->cat_ID);
-							echo $value->cat_ID."<br>";
-						?>
-						<li clas="col-lg-1"><a href="<?php echo $category_link; ?>"><?php echo $value->name; ?></a></li>
-						<?php
-						}
+
+					for ($i=0; $i <10 ; $i++) { 
+						var_dump(get_the_category_by_ID($i));
+						echo "<br>";
+					}
+						
 					?>
 					<?php ?>
 					
