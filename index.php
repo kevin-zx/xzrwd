@@ -22,7 +22,7 @@
 		echo $value->name;
 		echo "<br>";
 		$category_link = get_category_link( $value->cat_ID );
-		
+		echo $category_link;
 		echo "<br>";
 
 	}
