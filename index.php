@@ -20,20 +20,16 @@
 					<?php
 						$cates = get_categories();
 						foreach ($cates as $key => $value) {
+							if (strstr($value->name,"Uncategorized")) {
+								continue;
+							}
 						?>
 						<li clas="col-lg-1"><a href="<?php echo $category_link; ?>"><?php echo $value->name; ?></a></li>
 						<?php
 						}
 					?>
 					<?php ?>
-					<!-- <li clas="col-lg-1"><a href="">关于</a></li>
-					<li clas="col-lg-1"><a href="">产品</a></li>
-					<li clas="col-lg-1"><a href="">成功案例</a></li>
-					<li clas="col-lg-1"><a href="">高端定制</a></li>
-					<li clas="col-lg-1"><a href="">展柜	</a></li>
-					<li clas="col-lg-1"><a href="">服务中心	</a></li>
-					<li clas="col-lg-1"><a href="">新闻	</a></li>
-					<li clas="col-lg-1"><a href="">练习我们</a></li> -->
+					
 				</ul>
 			</header>
 
