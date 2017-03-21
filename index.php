@@ -21,7 +21,7 @@
 
 					for ($i=2; $i <10 ; $i++) { 
 						// echo get_the_category_by_ID($i);
-						$cate_name = get_the_category_by_ID($i)
+						$cate_name = get_the_category_by_ID($i);
 						$category_link = get_category_link( $value->cat_ID );
 						?>
 						<?php echo "<li clas='col-lg-1'><a href='$category_link'>$cate_name</a></li>"; ?>	
