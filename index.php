@@ -23,6 +23,8 @@
 							if (strstr($value->name,"Uncategorized")) {
 								continue;
 							}
+							$category_link = get_category_link( $value->cat_ID );
+							echo $value->cat_ID."<br>";
 						?>
 						<li clas="col-lg-1"><a href="<?php echo $category_link; ?>"><?php echo $value->name; ?></a></li>
 						<?php
