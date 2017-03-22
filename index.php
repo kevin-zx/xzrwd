@@ -150,7 +150,7 @@
 	
 	<table border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td width="60" align="center"><img src="/Templates/zl/imgs/left1.png" width="17" height="17" name="arrLeft2" class="pointer" id="arrLeft2"></td>
+        <td width="60" align="center"><img src="http://www.ahzhilei.cn/Templates/zl/imgs/left1.png" width="17" height="17" name="arrLeft2" class="pointer" id="arrLeft2"></td>
         <td width="960" align="center">
 		<div id="scrollbox2" style="width: 960px; overflow: hidden;"><div style="overflow: hidden; zoom: 1; width: 32766px;"><div style="float: left;">
         <li><table height="25" border="0" cellpadding="0" cellspacing="0">
@@ -205,7 +205,7 @@
 			
           </tr>
         </tbody></table></li></div></div></div></td>
-        <td width="60" align="center"><img src="/Templates/zl/imgs/right1.png" width="17" height="17" name="arrRight2" class="pointer" id="arrRight2"></td>
+        <td width="60" align="center"><img src="http://www.ahzhilei.cn/Templates/zl/imgs/right1.png" width="17" height="17" name="arrRight2" class="pointer" id="arrRight2"></td>
       </tr>
     </tbody></table>
 	 <script language="javascript" type="text/javascript">
