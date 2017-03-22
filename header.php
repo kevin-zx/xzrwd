@@ -6,7 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/index.css">
 	<link rel="stylesheet" href="http://v3.bootcss.com/assets/css/docs.min.css">
 	<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-    
+    <link rel="stylesheet" type="text/css" href="http://www.ahzhilei.cn/Templates/zl/css/zl.css">
     <script src="http://www.ahzhilei.cn/Templates/zl/js/niutuku.js"></script>
 	<script src="<?php bloginfo('template_url'); ?>/js/jquery-3.0.0.min.js"></script>
 	<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/bootstrap.min.js"></script>
