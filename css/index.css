@@ -39,3 +39,8 @@ header .menu{
     vertical-align: bottom;
     text-align: center;
 }
+
+.bg1 {
+    background-repeat: no-repeat;
+    background-position: center;
+}
