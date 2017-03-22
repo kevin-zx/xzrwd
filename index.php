@@ -144,6 +144,11 @@
 			</div>
 		</div>
 		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+		<table width="100%" height="1" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td></td>
+  </tr>
+</tbody></table>
 <table width="100%" height="44" border="0" cellpadding="0" cellspacing="0" background="http://www.ahzhilei.cn/Templates/zl/imgs/gdbg.jpg">
   <tbody><tr>
     <td align="center">
