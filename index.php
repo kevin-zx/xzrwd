@@ -144,7 +144,89 @@
 			</div>
 		</div>
 		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<table width="100%" height="44" border="0" cellpadding="0" cellspacing="0" background="/Templates/zl/imgs/gdbg.jpg">
+  <tbody><tr>
+    <td align="center">
+	
+	<table border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="60" align="center"><img src="/Templates/zl/imgs/left1.png" width="17" height="17" name="arrLeft2" class="pointer" id="arrLeft2"></td>
+        <td width="960" align="center">
+		<div id="scrollbox2" style="width: 960px; overflow: hidden;"><div style="overflow: hidden; zoom: 1; width: 32766px;"><div style="float: left;">
+        <li><table height="25" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?7_1.html">男女装展柜</a></td>
+			
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?6_1.html">实拍展柜</a></td>
+			
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?29_1.html">化妆品展柜</a></td>
+			
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?37_1.html">黄金珠宝展柜</a></td>
+			
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?31_1.html">男女/童鞋展柜</a></td>
+			
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?32_1.html">童装/孕婴展柜</a></td>
+			
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?36_1.html">时尚家纺展柜</a></td>
+			
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?38_1.html">内衣/家居服展柜</a></td>
+			
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?39_1.html">食品展柜</a></td>
+			
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?40_1.html">商超烟酒类展柜</a></td>
+			
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?41_1.html">其他样式类展柜</a></td>
+			
+          </tr>
+        </tbody></table></li></div><div style="float: left;">
+        <li><table height="25" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?7_1.html">男女装展柜</a></td>
+			
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?6_1.html">实拍展柜</a></td>
+			
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?29_1.html">化妆品展柜</a></td>
+			
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?37_1.html">黄金珠宝展柜</a></td>
+			
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?31_1.html">男女/童鞋展柜</a></td>
+			
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?32_1.html">童装/孕婴展柜</a></td>
+			
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?36_1.html">时尚家纺展柜</a></td>
+			
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?38_1.html">内衣/家居服展柜</a></td>
+			
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?39_1.html">食品展柜</a></td>
+			
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?40_1.html">商超烟酒类展柜</a></td>
+			
+            <td width="120" align="center" background="http://www.ahzhilei.cn/Templates/zl/imgs/bg1.png" class="bg1"><a href="/list/?41_1.html">其他样式类展柜</a></td>
+			
+          </tr>
+        </tbody></table></li></div></div></div></td>
+        <td width="60" align="center"><img src="/Templates/zl/imgs/right1.png" width="17" height="17" name="arrRight2" class="pointer" id="arrRight2"></td>
+      </tr>
+    </tbody></table>
+	 <script language="javascript" type="text/javascript">
+		var scrollPic_01 = new ScrollPic();
+		scrollPic_01.scrollContId   = "scrollbox2"; //内容容器ID
+		scrollPic_01.arrLeftId      = "arrLeft2";//左箭头ID
+		scrollPic_01.arrRightId     = "arrRight2"; //右箭头ID
 
+		scrollPic_01.frameWidth     = 960;//显示框宽度
+		scrollPic_01.pageWidth      = 120; //翻页宽度
+
+		scrollPic_01.speed          = 10; //移动速度(单位毫秒，越小越快)
+		scrollPic_01.space          = 10; //每次移动像素(单位px，越大越快)
+		scrollPic_01.autoPlay       = true; //自动播放
+		scrollPic_01.autoPlayTime   = 3; //自动播放间隔时间(秒)
+
+		scrollPic_01.initialize(); //初始化
+</script> 
+	</td>
+  </tr>
+</tbody></table>
 
 
 <?php get_footer(); ?>
