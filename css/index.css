@@ -34,3 +34,8 @@ header .menu{
 .news ul li p{
 	font-size: 1.3rem;	
 }
+
+#scrollbox2 LI table td {
+    vertical-align: bottom;
+    text-align: center;
+}
